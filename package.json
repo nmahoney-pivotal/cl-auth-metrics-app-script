@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nmahoney-pivotal/cl-auth-metrics-app-script/issues"
   },
-  "homepage": "https://github.com/nmahoney-pivotal/cl-auth-metrics-app-script#readme"
+  "homepage": "https://github.com/nmahoney-pivotal/cl-auth-metrics-app-script#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  }
 }
