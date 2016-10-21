@@ -1,0 +1,19 @@
+{
+  "name": "cl_auth_metrics_app_script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmahoney-pivotal/cl-auth-metrics-app-script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmahoney-pivotal/cl-auth-metrics-app-script/issues"
+  },
+  "homepage": "https://github.com/nmahoney-pivotal/cl-auth-metrics-app-script#readme"
+}
