@@ -4,7 +4,7 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "test": "cat script.js > spec.js && cat spec/scriptSpec.js >> spec.js && cat spec.js && node_modules/jasmine/bin/jasmine.js"
+    "test": "cat script.js > spec.js && cat spec/scriptSpec.js >> spec.js && node_modules/jasmine/bin/jasmine.js"
   },
   "repository": {
     "type": "git",
