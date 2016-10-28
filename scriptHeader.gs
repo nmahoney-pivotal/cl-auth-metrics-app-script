@@ -2,5 +2,5 @@ function createClAuthMetricsSheets() {
   functions.createTeamMemberSheets(SpreadsheetApp.getActiveSpreadsheet(), Logger);
 }
 
-// ************************************** PASTE UNDER THIS LINE **************************************
+// ************************************** PASTE JS FUNCTIONS UNDER THIS LINE **************************************
 
