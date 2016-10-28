@@ -37,6 +37,9 @@ var functions = {
         case 'dev':
           spreadsheet.copy('Dev Template').setName(teamMembers[i].name);
           break;
+        default:
+          logger.log('Unexpected error while creating team member sheets.');
+          continue;
       }
     }
   }
